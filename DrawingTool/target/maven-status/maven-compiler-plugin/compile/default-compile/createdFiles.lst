@@ -1,0 +1,10 @@
+com\hugeinc\drawingtool\model\Point.class
+com\hugeinc\drawingtool\DrawingTool.class
+com\hugeinc\drawingtool\model\Rectangle.class
+com\hugeinc\drawingtool\model\DrawableShape.class
+com\hugeinc\drawingtool\model\Line.class
+com\hugeinc\drawingtool\model\AbstractDrawableShape.class
+com\hugeinc\drawingtool\common\io\FileUtils.class
+com\hugeinc\drawingtool\model\Canvas.class
+com\hugeinc\drawingtool\common\io\CommandUtils.class
+com\hugeinc\drawingtool\common\DrawingToolConstants.class
